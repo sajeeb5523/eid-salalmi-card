@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap');
+
+.noto_serif_bengali, body{
+    font-family: "Noto Serif Bengali", serif;
+}
+
+.primary_color{
+  color: #ef4d22;
+}
+
+.primary_bg{
+  background-color: #ef4d22;
+}
+
+.primary_border{
+  border-color: #ef4d22;
+}
+
+.primary_ring{
+  --tw-ring-color: #ef4d22;
+}
+
+label {
+  font-weight: 500 !important;
+  margin-bottom: 3px !important;
+}
+
+
+.swal2-actions {
+    margin-top: 7px;
+}
+
+/* div#swal2-html-container {
+    padding: 0;
+} */
+
+button.swal2-confirm.btn-custom {
+    padding: 6px 24px;
+}
+
+h2#swal2-title {
+    color: #ef4d22;
+}
+
+button.swal2-confirm.btn-custom {
+    padding: 6px 24px;
+}
